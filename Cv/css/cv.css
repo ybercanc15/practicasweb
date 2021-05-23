@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(155, 208, 229);
+}
+h2{
+    font-style: oblique;  
+    background-color: rgb(212, 240, 252);  
+}
+h1{
+    font-style: italic;
+}
+li{
+    text-align: justify;
+    font-style: italic;
+}
+p{
+    font-style: italic;
+}
+h1{
+    background-color:rgb(212, 240, 252);
+}
+img{
+    width: 150px;
+    height: 200px;
+
+}
+.foto,
+.información{
+    display: table-cell;
+}
+.foto{
+    width: 80%;
+}
+.información{
+    width: 20%;
+}
+.contenido{
+    display: row;
+}
+.contenedor{
+    display: table;
+    border-spacing: 10px;
+}
